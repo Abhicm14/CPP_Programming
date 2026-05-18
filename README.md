@@ -83,57 +83,57 @@ Examples include:
 
 ### 🟢 Basics
 
-- hello_world.cpp
-- variables.cpp
-- data_types.cpp
-- input_output.cpp
-- operators.cpp
+- hello_world
+- variables
+- data_types
+- input_output
+- operators
 
 ### 🔵 Arrays & Loops
 
-- arrays.cpp
-- multi_arrays.cpp
-- for_loop.cpp
-- while_loop.cpp
-- nested_loops.cpp
+- arrays
+- multi_arrays
+- for_loop
+- while_loop
+- nested_loops
 
 ### 🟣 Functions & Scope
 
-- functions.cpp
-- function_overloading.cpp
-- area_calculator.cpp
-- variable_scope.cpp
+- functions
+- function_overloading
+- area_calculator
+- variable_scope
 
 ### 🟡 Advanced Concepts
 
-- enumeration.cpp
-- references.cpp
-- pointers.cpp
-- dynamic_memory.cpp
-- type_casting.cpp
-- string_handling.cpp
+- enumeration
+- references
+- pointers
+- dynamic_memory
+- type_casting
+- string_handling
 
 ### 🟠 Object-Oriented Programming
 
-- classes.cpp
-- constructors.cpp
-- operator_overloading.cpp
-- inheritance.cpp
-- polymorphism.cpp
-- abstract_class.cpp
+- classes
+- constructors
+- operator_overloading
+- inheritance
+- polymorphism
+- abstract_class
 
 ### 🔴 Advanced Features
 
-- exception_handling.cpp
-- namespaces.cpp
+- exception_handling
+- namespaces
 
 ### 🧩 Problem Solving
 
-- fibonacci.cpp
-- prime_checker.cpp
-- factorial.cpp
-- palindrome.cpp
-- armstrong.cpp
+- fibonacci
+- prime_checker
+- factorial
+- palindrome
+- armstrong
 
 ---
 
