@@ -21,7 +21,6 @@ This repository is designed for learners who want to practice **step by step** �
 - [Problem Solving Exercises](#🧩-problem-solving-exercises)
 - [C++ Roadmap Programs](#📂-c-roadmap-programs)
 - [Project Ideas](#🚀-project-ideas)
-- [Repository Structure](#📂-repository-structure)
 - [How to Run](#⚙️-how-to-run)
 - [Contribution](#❤️-contribution)
 
@@ -60,24 +59,6 @@ This repository is designed for learners who want to practice **step by step** �
 - [C++ by The Cherno](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 - [C++ by freeCodeCamp.org](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 - To read: [w3schools](https://www.w3schools.com/cpp/default.asp), [javatpoint](https://www.javatpoint.com/cpp-tutorial), [tutorialspoint](https://www.tutorialspoint.com/cplusplus/index.htm), [cplusplus.com](https://cplusplus.com/doc/tutorial/), [learncpp.com](https://www.learncpp.com/)
-
----
-
-## 🧩 Problem Solving Exercises
-
-This section contains **stepwise C++ programs** starting from basics to advanced problem-solving.  
-Examples include:
-
-- Hello World, variables, operators
-- Arithmetic operations, BMI calculator, tax calculator
-- Loops, Fibonacci, prime numbers, factorial
-- String manipulation, recursion, arrays, matrices
-- OOP exercises: classes, inheritance, encapsulation
-- File handling, dynamic memory, structures
-
-👉 Each program is saved as a separate `.cpp` file for easy compilation and practice.
-
----
 
 ## 📂 C++ Roadmap Programs
 
@@ -134,6 +115,22 @@ Examples include:
 - factorial
 - palindrome
 - armstrong
+
+---
+
+## 🧩 Problem Solving Exercises
+
+This section contains **stepwise C++ programs** starting from basics to advanced problem-solving.  
+Examples include:
+
+- Hello World, variables, operators
+- Arithmetic operations, BMI calculator, tax calculator
+- Loops, Fibonacci, prime numbers, factorial
+- String manipulation, recursion, arrays, matrices
+- OOP exercises: classes, inheritance, encapsulation
+- File handling, dynamic memory, structures
+
+👉 Each program is saved as a separate `.cpp` file for easy compilation and practice.
 
 ---
 
